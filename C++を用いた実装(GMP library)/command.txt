@@ -1,1 +1,0 @@
-g++ -I/usr/local/include -L/usr/local/lib -Wall -O3 example01.cpp -o example01 -lgmp
